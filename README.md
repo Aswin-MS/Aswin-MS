@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+Profile!!" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SQL+Enthusiast+%7C+Python+Learner+%7C+Aspiring+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SQL+Enthusiast;Python+Learner;Aspiring+Data+Analyst" alt="Typing SVG" />
 </p>
+
 
 
 
