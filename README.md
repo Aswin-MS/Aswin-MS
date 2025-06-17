@@ -82,7 +82,7 @@ Analyzing global COVID-19 trends and vaccination impact using Python (Pandas, Ma
 
 ---
 
-### 🌐 Find Me On
+### 🌐 Connect with me
 <p>
   <a href="msaswin175@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
