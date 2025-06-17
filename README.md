@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aswin M S</h1>
-<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | Python Lover</h3>
+<h3 align="center">Aspiring Data Analyst | SQL | Python </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Data+%26+Insights;Learning+Something+New+Everyday!+🚀" alt="Typing SVG" />
