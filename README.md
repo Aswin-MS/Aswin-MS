@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Aswin M S</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Python </h3>
+<h1 align="center">Hey there!, I'm Aswin M S</h1>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code+&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+Profile!!" alt="Typing SVG" /></a> </h3>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code+&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+Profile!!" alt="Typing SVG" /></a>
@@ -32,8 +32,6 @@ Analyzing global COVID-19 trends and vaccination impact using Python (Pandas, Ma
  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
