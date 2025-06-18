@@ -32,7 +32,7 @@ Analyzing global COVID-19 trends and vaccination impact using Python (Pandas, Ma
 
 ### 🛠️ My Tech Toolbox
 <p>
- ### 🧠 Data Science & Machine Learning
+🧠 **Data Science & Machine Learning**
 <p>
  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
