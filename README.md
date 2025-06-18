@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!, I'm Aswin M S</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+Profile!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+Profile!!!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,16 +16,17 @@
 - 🎓 CS Graduate with strong interest in **Data Science and Analytics**.
 - 📊 Love transforming raw data into meaningful insights.
 - 🚀 Open to **Data Analyst** roles, internships & freelance projects.
+- 🧑‍💻 Data science Intern @Luminar Technolabs, Kochi.
 
 ---
 
 ###  Projects Preview
 >  **Bovine Care**  🐄
-A farmer-friendly platform to detect cattle diseases via image analysis and enable expert Q&A forums.  
+A farmer-friendly platform to detect cattle diseases via image analysis and enable farmer community chats.  
 *(Tech: Python, Flask, YOLOv5, MobileNet, React.js, Firebase)*
 
 >  **COVID-19 Data Analysis**  🦠
-Analyzing global COVID-19 trends and vaccination impact using Python (Pandas, Matplotlib, Seaborn).  
+Analyzing global COVID-19 trends and vaccination impact using Python (Pandas, Matplotlib).  
 *(Tech: Python, Jupyter Notebook)*
 
 ---
